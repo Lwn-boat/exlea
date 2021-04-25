@@ -45,6 +45,15 @@ body {
   text-align: center;
 }
 
+.banner .container .subtitle {
+  position: relative;
+  margin: 10px auto 0 auto;
+  width: 320px;
+  font-size: 17px;
+  color: #fff;
+  text-align: center;
+}
+
 .banner .container .title .fa {
   position: absolute;
   right: -25px;
@@ -75,7 +84,7 @@ body {
 
 .main-content .container {
   margin: 0 auto;
-  max-width: 1200px;  
+  max-width: 1200px;
 }
 
 .about-list {
@@ -83,7 +92,7 @@ body {
 }
 
 .about-list:first-child {
-  margin-top: 20px;  
+  margin-top: 20px;
 }
 
 .about-list .list {
@@ -146,7 +155,7 @@ body {
 }
 
 .about-list .card .pic-s4 {
-  background: #969;  
+  background: #969;
 }
 
 .about-list .card .pic-s5 {
